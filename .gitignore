@@ -1,0 +1,10 @@
+# secrets & auth tokens
+credentials.json
+token.json
+
+# virtualenvs / editor junk
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
